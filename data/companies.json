@@ -1,0 +1,2578 @@
+{
+  "asOf": "2026-10-18",
+  "window90End": "2027-01-16",
+  "horizonEnd": "2027-04-18",
+  "companies": [
+    {
+      "id": "byd",
+      "name": "比亚迪",
+      "en": "BYD",
+      "tickers": "002594.SZ，1211.HK",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 17,
+      "nextDate": "2026-10-30",
+      "nextWhen": "2026-10-30",
+      "nextPeriod": "2026 年第三季报（A 股预约）",
+      "nextNote": "有评论写 10 月 29 日，与预约披露不一致，本页用 10 月 30 日。",
+      "headline": "2026 年上半年：营业收入 3,448.15 亿元，同比 -7.13%；归母净利润 123.25 亿元，同比 -20.54%。汽车、汽车相关及其他产品收入 2,753.41 亿元，同比 -8.98%。新能源快报销量约 181 万辆；业务回顾写出口 79.2 万辆、同比 +67.8%（中汽协口径）。",
+      "change": "收入和利润同比下降，出口和方程豹、腾势、仰望等高端品牌被公司写成结构上的对冲。",
+      "guidance": "",
+      "watches": [
+        "上半年出口 79.2 万辆、同比 +67.8%，收入和归母利润同比下降。第三季对照出口与国内是否仍分叉。",
+        "汽车、汽车相关及其他产品收入同比 -8.98%。对照第三季收入降幅是否仍落在这一块。"
+      ],
+      "dateSources": [
+        {
+          "label": "同花顺公司大事",
+          "url": "http://basic.10jqka.com.cn/002594/event.html"
+        },
+        {
+          "label": "搜狐重大事项",
+          "url": "https://q.stock.sohu.com/cn/002594/bw.shtml"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "巨潮半年报 PDF",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531835.PDF",
+          "note": "2026-08-28/29 披露的上半年报告。"
+        },
+        {
+          "bucket": "pdf",
+          "label": "公司中报 PDF",
+          "url": "https://www.bydglobal.com/material/__CN/group-official-website/file/cn/investor-relations/financial-reports/2026-interim-report-cn.pdf",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "official": "公司业绩直播列表本次为空，没有另放一条已打开的上半年说明会页面。日期来源是预约披露转载。",
+        "transcript": "未找到公司发布的上半年说明会文字记录。",
+        "video": "未找到公司托管的上半年业绩说明视频。"
+      }
+    },
+    {
+      "id": "saic",
+      "name": "上汽集团",
+      "en": "SAIC Motor",
+      "tickers": "600104.SH",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 18,
+      "nextDate": "2026-10-30",
+      "nextWhen": "2026-10-30",
+      "nextPeriod": "2026 年第三季报",
+      "nextNote": "同花顺预约：首次预约 2026-10-30，检索时无变更、尚未实际披露。",
+      "headline": "2026 年 1–6 月：营业总收入 2,986.52 亿元，同比 -0.31%；营业收入 2,949.87 亿元，同比 +0.22%；归母净利润 51.52 亿元，同比 -14.38%。批发 204.5 万辆，零售 207.5 万辆；自主品牌 146.9 万辆，同比 +12.6%；新能源 79.6 万辆，同比 +23.1%；海外 73.5 万辆，同比 +48.7%；毛利率 12.6%，同比 +3 个百分点。",
+      "change": "收入大致持平、归母利润下降，销量结构转向自主品牌、新能源和出口，毛利率上升。",
+      "guidance": "",
+      "watches": [
+        "归母净利润同比 -14.38%，毛利率 12.6%、同比 +3 个百分点。第三季看结构改善是否仍与利润下降同时出现。",
+        "海外 73.5 万辆、同比 +48.7%，自主品牌同比 +12.6%。对照第三季这两组是否继续快于总收入。"
+      ],
+      "dateSources": [
+        {
+          "label": "同花顺预约披露",
+          "url": "http://data.10jqka.com.cn/financial/yypl/op/code/code/600104/"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "公司财务数据页",
+          "url": "https://www.saicmotor.com/m/tzzgx/jbqk/cwsj/index.shtml",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "巨潮半年报 PDF",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526578.PDF",
+          "note": "2026-08-29 披露。"
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到公司发布的半年报说明会文字记录。",
+        "video": "未找到公司托管的半年报说明视频。"
+      }
+    },
+    {
+      "id": "geely",
+      "name": "吉利汽车",
+      "en": "Geely Automobile",
+      "tickers": "0175.HK，80175",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 101,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "券商页面出现过 2026-10-29，不是公司 IR 日历，不用。极氪已于 2025-12-22 私有化并入，不再单独跟踪 ZK。",
+      "headline": "截至 2026-06-30 的六个月：收入 1,736.00 亿元，同比 +15%；母公司拥有人应占利润 90.91 亿元，同比 -2%；总销量 142.3 万辆，同比 +1%；出口 474,228 辆，同比 +158%。",
+      "change": "销量几乎持平，出口和高端车拉高单车收入；毛利率 17.9%，同比 +1.6 个百分点。汇兑使报表利润略降，公司口径的核心利润同比 +46%。",
+      "guidance": "",
+      "watches": [
+        "出口同比 +158%，报表利润同比 -2%。有下一场日期后，对照出口和汇兑是否仍把这两项拉开。",
+        "公司口径核心利润同比 +46%。对照时分清报表利润和这个口径，不把核心利润写成新的预测。"
+      ],
+      "dateSources": [],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "港交所中期业绩",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0817/2026081700258_c.pdf",
+          "note": "2026-08-17 公布。"
+        },
+        {
+          "bucket": "pdf",
+          "label": "极氪退市公告",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/1222/2025122201633_c.pdf",
+          "note": "2025-12-22，说明为何不再单列 ZK。"
+        }
+      ],
+      "gaps": {
+        "official": "未打开到公司自己的下一场业绩日历。",
+        "transcript": "未找到公司发布的中期业绩文字记录。",
+        "video": "未找到公司托管的中期业绩视频。"
+      }
+    },
+    {
+      "id": "gwm",
+      "name": "长城汽车",
+      "en": "Great Wall Motor",
+      "tickers": "601633.SH，2333.HK",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 19,
+      "nextDate": "2026-10-31",
+      "nextWhen": "2026-10-31",
+      "nextPeriod": "2026 年第三季报",
+      "nextNote": "日期来自预约披露转载。",
+      "headline": "2026 年 1–6 月：营业总收入 1,021.01 亿元，同比 +10.58%；归母净利润 24.65 亿元，同比 -61.11%。",
+      "change": "销量与收入增长，利润下降主要因海外税收补贴收益收回延期和汇率。",
+      "guidance": "",
+      "watches": [
+        "归母净利润同比 -61.11%。第三季看利润降幅是否仍被公司写成海外税收补贴延期和汇率。",
+        "收入同比 +10.58%。对照收入增长是否还在，同时利润是否仍下降。"
+      ],
+      "dateSources": [
+        {
+          "label": "爱股网转载的预约提示",
+          "url": "https://www.igu888.com/stocknews/601633.html"
+        },
+        {
+          "label": "查股网",
+          "url": "http://gubit.cn/F10/11/601633.html"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "巨潮半年报",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225502459.PDF",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "official": "下次日期用的是预约披露转载，不是公司 IR 原文。",
+        "transcript": "未找到公司发布的半年报文字记录。",
+        "video": "未找到公司托管的半年报视频。"
+      }
+    },
+    {
+      "id": "changan",
+      "name": "长安汽车",
+      "en": "Changan Automobile",
+      "tickers": "000625.SZ",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 20,
+      "nextDate": "2026-10-31",
+      "nextWhen": "2026-10-31",
+      "nextPeriod": "2026 年第三季报",
+      "nextNote": "首次预约 2026-10-30，检索时已变更为 2026-10-31。",
+      "headline": "2026 年 1–6 月：营业收入 656.34 亿元，同比 -9.71%；归母净利润 8.17 亿元，同比 -64.32%。销量 111.9 万辆；海外出口 45.5 万辆，同比 +51.9%；新能源汽车销量 41.4 万辆。总销量同比未在该段单列。",
+      "change": "收入和利润都下降，公司把原因写成行业需求走弱；出口仍在增长。",
+      "guidance": "",
+      "watches": [
+        "出口 45.5 万辆、同比 +51.9%，归母净利润同比 -64.32%。第三季看出口增长是否仍与利润下降同时出现。",
+        "预约日已从 10 月 30 日改为 10 月 31 日。发布前再看一次预约页。"
+      ],
+      "dateSources": [
+        {
+          "label": "同花顺预约披露",
+          "url": "http://data.10jqka.com.cn/financial/yypl/op/code/code/000625/"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "巨潮半年报摘要 PDF",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-08-29/1225528443.PDF",
+          "note": "财务数字以此为准。"
+        },
+        {
+          "bucket": "official",
+          "label": "半年报全文转载",
+          "url": "http://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12572357&stockid=000625",
+          "note": "新浪公告页，已打开的全文转载。销量叙述取自这里，财务表与巨潮摘要一致。"
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到公司发布的说明会文字记录。",
+        "video": "未找到公司托管的说明会视频。"
+      }
+    },
+    {
+      "id": "gac",
+      "name": "广汽集团",
+      "en": "GAC Group",
+      "tickers": "601238.SH，2238.HK",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 21,
+      "nextDate": "2026-10-31",
+      "nextWhen": "2026-10-31",
+      "nextPeriod": "2026 年第三季报",
+      "headline": "2026 年 1–6 月：营业收入 461.21 亿元，同比 +9.38%；归母净利润 -44.67 亿元，上年同期 -25.38 亿元，同比 -75.98%。销量 77.31 万辆，同比 +2.35%；新能源 26.02 万辆，同比 +68.80%；自主品牌 34.60 万辆，同比 +35.69%。",
+      "change": "收入和新能源销量上升，归母亏损扩大；公司把压力写成竞争、销售投入、原材料、合资投资收益和汇兑。",
+      "guidance": "",
+      "watches": [
+        "新能源销量同比 +68.80%，归母亏损扩大到 44.67 亿元。第三季看放量是否仍伴随亏损扩大。",
+        "销量数字来自已打开的中期报告文本，财务数字来自巨潮摘要。对照时分清这两份。"
+      ],
+      "dateSources": [
+        {
+          "label": "同花顺预约披露",
+          "url": "http://data.10jqka.com.cn/financial/yypl/op/code/code/601238/"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "巨潮半年报摘要 PDF",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-08-29/1225531315.PDF",
+          "note": "财务数字。"
+        },
+        {
+          "bucket": "pdf",
+          "label": "已打开的中期报告文本",
+          "url": "https://stockmc.xueqiu.com/202609/601238_20260930_4RZG.pdf",
+          "note": "文件抬头为广州汽车集团股份有限公司 2026 年中期报告。不是干净的交易所网址，销量取自这份已打开文本。"
+        }
+      ],
+      "gaps": {
+        "official": "下次日期来自预约披露，未另打开公司 IR 日历。",
+        "transcript": "未找到公司发布的文字记录。",
+        "video": "未找到公司托管的视频。"
+      }
+    },
+    {
+      "id": "dongfeng",
+      "name": "东风集团股份",
+      "en": "Dongfeng Motor Group",
+      "tickers": "0489.HK",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 102,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "H 股于 2026-03-18 公告撤回上市。名录仍保留该主体。",
+      "headline": "",
+      "change": "",
+      "figureGap": "仍缺最近一期数字。撤回上市后没有可打开的 2026 年中期业绩。检索命中的营业收入 1,759.07 亿元文件抬头是中国冶金科工，不是东风。东风股份（600006）的盈利预告也不是本上市主体。",
+      "guidance": "",
+      "watches": [
+        "先找到可打开的本公司原文，再谈下一场。不要把中国冶金科工或 600006 的数字算到 0489。"
+      ],
+      "dateSources": [
+        {
+          "label": "港交所 00489 标题检索",
+          "url": "https://www1.hkexnews.hk/search/titlesearch.xhtml?category=1&lang=EN&market=SEHK&stockId=10226"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "港交所标题检索",
+          "url": "https://www1.hkexnews.hk/search/titlesearch.xhtml?category=1&lang=EN&market=SEHK&stockId=10226",
+          "note": "用于确认撤回上市之后没有可打开的 2026 中期业绩。"
+        }
+      ],
+      "gaps": {
+        "pdf": "没有可打开的 2026 年中期业绩 PDF。",
+        "transcript": "没有可引用的业绩文字记录。",
+        "video": "没有可引用的业绩视频。"
+      }
+    },
+    {
+      "id": "baic",
+      "name": "北京汽车",
+      "en": "BAIC Motor",
+      "tickers": "1958.HK",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 103,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "未核到公司自己的下次日期。北汽集团母公司未上市。北汽蓝谷是另一上市主体。",
+      "headline": "截至 2026-06-30：销量 328,906 辆（上年同期 421,244 辆）；收入 577.26 亿元（上年同期 823.98 亿元）；期间利润 -3.46 亿元（上年同期 +37.74 亿元）；归属于权益持有人净亏损 15.94 亿元（上年同期盈利 3.60 亿元）。收入同比按公司表计算约 -29.9%。",
+      "change": "北京品牌、北京奔驰、北京现代、福建奔驰口径的批发下滑，收入下降，拥有人由盈转亏。",
+      "guidance": "",
+      "watches": [
+        "拥有人由盈利 3.60 亿元转为亏损 15.94 亿元。有下一场日期后，对照批发是否仍下滑。",
+        "收入同比约 -29.9% 是按公司表计算的，不是公司单列的百分比。"
+      ],
+      "dateSources": [],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "港交所 2026 中期报告",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0922/2026092200665.pdf",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "official": "未打开到公司下一场业绩页面。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "seres",
+      "name": "赛力斯",
+      "en": "Seres",
+      "tickers": "601127.SH",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 22,
+      "nextDate": "2026-10-31",
+      "nextWhen": "2026-10-31",
+      "nextPeriod": "2026 年第三季报",
+      "headline": "2026 年 1–6 月：营业收入 574.93 亿元，同比 -7.87%；归母净利润 -17.17 亿元，上年同期盈利 29.41 亿元，同比 -158.38%。新能源销量 17.88 万辆，同比 +3.87%；赛力斯品牌 16.08 万辆，同比 +5.6%。毛利率 23.3%，同比 -5.6 个百分点。",
+      "change": "销量略增，但由盈转亏。公司写产品切换、电池和芯片成本。",
+      "guidance": "",
+      "watches": [
+        "新能源销量同比 +3.87%，归母由盈转亏。第三季看是否仍是量增利亏。",
+        "毛利率 23.3%，同比 -5.6 个百分点。对照产品切换是否仍被公司用来解释毛利率。"
+      ],
+      "dateSources": [
+        {
+          "label": "同花顺预约披露",
+          "url": "http://data.10jqka.com.cn/financial/yypl/op/code/code/601127/"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "巨潮半年报 PDF",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-08-20/1225482984.PDF",
+          "note": "2026-08-20 披露。"
+        },
+        {
+          "bucket": "pdf",
+          "label": "港交所中文稿",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081901212_c.pdf",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "official": "下次日期来自预约披露。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "chery",
+      "name": "奇瑞汽车",
+      "en": "Chery Automobile",
+      "tickers": "9973.HK",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 104,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "2025-09-25 在港交所主板上市。未核到下一场日期。",
+      "headline": "截至 2026-06-30：收入 1,432.80 亿元，上年同期 1,416.02 亿元，同比 +1.2%；拥有人应占利润 85.67 亿元，上年同期 97.05 亿元，同比 -11.7%；毛利率 16.1%，上年同期 13.0%。财务摘要未单列整车总销量。乘用车收入：燃油 695.11 亿元、新能源 592.84 亿元。",
+      "change": "收入基本持平，利润下降，毛利率上升，公司把结构变化写成海外组合。",
+      "guidance": "",
+      "watches": [
+        "毛利率从 13.0% 到 16.1%，应占利润同比 -11.7%。有日期后对照海外组合是否仍是这个组合。",
+        "摘要没有整车总销量，不另补销量。"
+      ],
+      "dateSources": [],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "港交所 2026 中期业绩",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000190_c.pdf",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "2025 年报",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203393_c.pdf",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "official": "未打开到下一场日历。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "leap",
+      "name": "零跑汽车",
+      "en": "Leapmotor",
+      "tickers": "9863.HK",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 105,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "未核到公司自己的下次日期。",
+      "headline": "截至 2026-06-30：收入 381.1 亿元，同比 +57.2%；权益持有人应占净利润 2.1 亿元（2025 年同期 0.3 亿元）；交付 356,487 台，同比 +60.8%；出口 96,294 台，同比 +372.6%。毛利率 11.7%，同比降 2.4 个百分点。",
+      "change": "交付和出口放量，上半年维持盈利；毛利率下降，公司归因于原材料和产品组合。",
+      "guidance": "",
+      "watches": [
+        "交付同比 +60.8%，出口同比 +372.6%，净利润 2.1 亿元。有日期后看放量是否仍盈利。",
+        "毛利率 11.7%，同比降 2.4 个百分点。对照原材料和产品组合是否仍被公司用来解释。"
+      ],
+      "dateSources": [],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "港交所中期文件",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0824/2026082400887_c.pdf",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "official": "未打开到下一场日历。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "li",
+      "name": "理想汽车",
+      "en": "Li Auto",
+      "tickers": "LI，2015.HK",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 106,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "第三方日历有 11 月 24 日、11 月 25 日、12 月 1 日等互相不一致的日期，都不用。",
+      "headline": "2026 年第二季：收入 257 亿元，同比 -15.1%；交付 98,330 辆，同比 -11.5%；净亏损 17 亿元，上年同期为净利润 11 亿元。车辆毛利率 9.4%，上年同期 19.4%。",
+      "change": "收入和交付同比下降，由盈利转为亏损。",
+      "guidance": "",
+      "watches": [
+        "车辆毛利率从 19.4% 降到 9.4%，由盈转亏。有公司日期后对照交付和毛利率是否仍一起下降。",
+        "不用第三方互相冲突的发布日。"
+      ],
+      "dateSources": [
+        {
+          "label": "季度业绩页",
+          "url": "https://ir.lixiang.com/zh-hans/financial-information/quarterly-results/"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "第二季新闻稿",
+          "url": "https://ir.lixiang.com/zh-hant/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial/",
+          "note": "2026-08-26。"
+        },
+        {
+          "bucket": "official",
+          "label": "季度业绩页",
+          "url": "https://ir.lixiang.com/zh-hans/financial-information/quarterly-results/",
+          "note": "检索日未列出下一场日期。"
+        }
+      ],
+      "gaps": {
+        "pdf": "已打开的是公司新闻稿页面，不是单独 PDF。",
+        "transcript": "未找到公司发布的电话会文字记录。",
+        "video": "未找到公司托管的业绩会视频。"
+      }
+    },
+    {
+      "id": "nio",
+      "name": "蔚来",
+      "en": "NIO",
+      "tickers": "NIO，9866.HK",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 107,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "第三方有 2026-11-11 等估计，公司 IR 本次未列出该日。",
+      "headline": "2026 年第二季：收入总额 321.369 亿元，同比 +69.1%；交付 107,658 辆，同比 +49.4%；净亏损 5.28 亿元，上年同期净亏损 49.948 亿元。经调整净利润（非公认会计准则）0.261 亿元。汽车毛利率 18.5%，上年同期 10.3%。",
+      "change": "交付和汽车毛利率改善，GAAP 仍为净亏损，但亏损同比大幅收窄。",
+      "guidance": "",
+      "watches": [
+        "GAAP 净亏损 5.28 亿元，上年同期 49.948 亿元。有日期后看亏损收窄是否延续，并分清 GAAP 与经调整净利润 0.261 亿元。",
+        "不用二手转述的亏损数字。"
+      ],
+      "dateSources": [],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "港交所第二季业绩公告",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0901/2026090102912_c.pdf",
+          "note": "2026-09-01。"
+        }
+      ],
+      "gaps": {
+        "official": "未打开到列出下一场日期的公司 IR 页。",
+        "transcript": "未找到公司文字记录。",
+        "video": "未找到公司视频。"
+      }
+    },
+    {
+      "id": "xpeng",
+      "name": "小鹏汽车",
+      "en": "XPeng",
+      "tickers": "XPEV，9868.HK",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 108,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "第三方估计（如 11 月 24 日）不用。",
+      "headline": "2026 年第二季：总收入 197.4 亿元，同比 +8.0%、环比 +51.5%；汽车销售收入 170.5 亿元，同比 +1.0%；毛利率 20.7%，上年同期 17.3%；净亏损 13.4 亿元，上年同期净亏损 4.8 亿元；交付 103,295 辆，上年同期 103,181 辆，同比 +0.1%。",
+      "change": "收入和毛利率上升，交付几乎持平，GAAP 亏损大于一年前。",
+      "guidance": "",
+      "watches": [
+        "交付同比 +0.1%，净亏损从 4.8 亿元扩到 13.4 亿元。有日期后看亏损扩大是否仍与交付持平同时出现。",
+        "毛利率 20.7%，上年同期 17.3%。对照时把毛利率和 GAAP 亏损分开看。"
+      ],
+      "dateSources": [],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "港交所英文业绩稿",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0824/2026082401045.pdf",
+          "note": "2026-08-24。"
+        },
+        {
+          "bucket": "pdf",
+          "label": "港交所中文稿",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0824/2026082401046_c.pdf",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "official": "未打开到下一场公司日历。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "yutong",
+      "name": "宇通客车",
+      "en": "Yutong Bus",
+      "tickers": "600066.SH",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 109,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "未核到下次日期。宇通重工（600817）不是本主体。",
+      "headline": "2026 年 1–6 月：营业收入 167.19 亿元，同比 +3.65%；归母净利润 18.67 亿元，同比 -3.52%；扣非归母净利润 17.96 亿元，同比 +15.83%。客车销售 20,100 辆，同比 -5.73%。",
+      "change": "销量下降但收入上升；报表利润略降，扣非利润上升。",
+      "guidance": "",
+      "watches": [
+        "销量同比 -5.73%，收入同比 +3.65%。有日期后看量降收增是否还在。",
+        "归母同比 -3.52%，扣非同比 +15.83%。对照两个利润口径是否继续反向。"
+      ],
+      "dateSources": [],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "巨潮半年报 PDF",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-08-11/1225466147.PDF",
+          "note": "2026-08-11 披露。"
+        }
+      ],
+      "gaps": {
+        "official": "未打开到下一场日历。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "sinotruk",
+      "name": "中国重汽",
+      "en": "Sinotruk",
+      "tickers": "3808.HK",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 110,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "未核到下次日期。",
+      "headline": "截至 2026-06-30：收入 708.41 亿元，上年同期 508.78 亿元，同比 +39.2%；本公司权益股东应占溢利 43.25 亿元，上年同期 34.27 亿元，同比 +26.2%。重卡销量 193,644 辆，同比 +41.8%；重卡出口（含联营出口）108,351 辆，同比 +57.1%。重卡分部营运溢利率 7.6%，同比 -1.5 个百分点。",
+      "change": "收入、利润和重卡销量都上升；营运溢利率下降，公司归因于出口汇兑亏损。",
+      "guidance": "",
+      "watches": [
+        "重卡销量同比 +41.8%，分部营运溢利率 7.6%、同比 -1.5 个百分点。有日期后看量增时利润率是否仍被汇兑拖累。",
+        "出口含联营 108,351 辆。对照时不要把它改写成另一口径的出口。"
+      ],
+      "dateSources": [],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "港交所中期业绩",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0826/2026082601258_c.pdf",
+          "note": "2026-08-26。"
+        },
+        {
+          "bucket": "pdf",
+          "label": "公司中期报告 PDF",
+          "url": "https://www.sinotruk.com/eportal/attachDir/sinotruk_xg_en/2026/09/2026092817150232200.pdf",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "official": "未打开到下一场日历。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "jac",
+      "name": "江淮汽车",
+      "en": "JAC",
+      "tickers": "600418.SH",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 111,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "未核到公司自己的下次日期。",
+      "headline": "2026 年 1–6 月：营业收入 221.30 亿元，同比 +14.31%；归母净利润 -7.49 亿元，上年同期 -7.73 亿元，公司称同比减亏。整车及底盘销量 17.24 万辆（乘用车 4.91 万辆，商用车 12.33 万辆）。",
+      "change": "收入和新能源乘用车放量，仍为亏损。",
+      "guidance": "",
+      "watches": [
+        "公司称同比减亏。有日期后看亏损是否继续小于上年同期的 7.73 亿元，不另设减亏幅度。"
+      ],
+      "dateSources": [],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "巨潮半年报",
+          "url": "http://dataclouds.cninfo.com.cn/shgonggao/hsomarket/2026/20260819/a91a5794f7634138bb2e85da18a6d2df.PDF",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "official": "未打开到下一场日历。",
+        "transcript": "未找到可打开的公司文字记录。路演转载不收录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "foton",
+      "name": "福田汽车",
+      "en": "Foton",
+      "tickers": "600166.SH",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 112,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "未核到下次日期。",
+      "headline": "2026 年 1–6 月：营业收入 336.68 亿元，同比 +10.86%；归母净利润 9.05 亿元，同比 +16.54%。销量 36.04 万辆，同比 +10.1%；海外 10.9 万辆，同比 +38.9%；新能源 5.9 万辆，同比 +17.9%。",
+      "change": "量利齐升，汇兑由收益转为损失。",
+      "guidance": "",
+      "watches": [
+        "归母净利润同比 +16.54%，同时汇兑由收益转为损失。有日期后看利润增长是否还盖过汇兑。"
+      ],
+      "dateSources": [],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "巨潮半年报",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225532391.PDF",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "official": "未打开到下一场日历。",
+        "transcript": "未找到可打开的公司文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "jiangling",
+      "name": "江铃汽车",
+      "en": "Jiangling",
+      "tickers": "000550.SZ",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 113,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "未核到下次日期。",
+      "headline": "2026 年 1–6 月：营业收入 193.62 亿元，同比 +7.02%；归母净利润 7.39 亿元，同比 +0.83%。业绩快报写整车销售 189,033 辆，同比 +9.46%，其财务数与半年报一致。",
+      "change": "销量和收入上升，利润几乎持平。",
+      "guidance": "",
+      "watches": [
+        "销量同比 +9.46% 写在业绩快报，半年报正文未重复这辆数。有日期后仍把辆数和利润 +0.83% 分开引用。"
+      ],
+      "dateSources": [],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "巨潮半年报",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-08-24/1225490929.PDF",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "业绩快报",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-07-22/1225435444.PDF",
+          "note": "销量 189,033 辆在这份快报。"
+        }
+      ],
+      "gaps": {
+        "official": "未打开到下一场日历。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "bluepark",
+      "name": "北汽蓝谷",
+      "en": "BAIC BluePark",
+      "tickers": "600733.SH",
+      "region": "中国",
+      "fy": "截至 12 月 31 日",
+      "order": 114,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "未核到下次日期。与北京汽车（1958.HK）不是同一上市主体。",
+      "headline": "2026 年 1–6 月：营业收入 115.97 亿元，同比 +21.86%；归母净利润 -19.38 亿元，上年同期 -23.08 亿元。销量 9.89 万辆，同比 +47.27%。",
+      "change": "极狐与享界放量，收入上升，仍亏损，亏损额小于上年同期。",
+      "guidance": "",
+      "watches": [
+        "销量同比 +47.27%，仍亏损 19.38 亿元，小于上年同期的 23.08 亿元。有日期后看放量是否继续缩小亏损。"
+      ],
+      "dateSources": [],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "巨潮半年报",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225527313.PDF",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "official": "未打开到下一场日历。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "tesla",
+      "name": "特斯拉",
+      "en": "Tesla",
+      "tickers": "TSLA",
+      "region": "美国",
+      "fy": "截至 12 月 31 日",
+      "order": 2,
+      "nextDate": "2026-10-21",
+      "nextWhen": "2026-10-21 收盘后发稿；问答 16:30 CT / 17:30 ET",
+      "nextPeriod": "2026 年第三季",
+      "headline": "截至 2026-06-30 的第二季：营收 282.4 亿美元，较上年同期增加 57.4 亿美元；归普通股股东净利润 11.1 亿美元，较上年同期减少 0.58 亿美元。交付 480,126 辆（公司更新材料对合计交付标注同比 +25%）；产量 451,758。",
+      "change": "交付和营收同比增长，GAAP 净利润同比略降。第三季产量交付已另发，财务结果仍待 10 月 21 日。本页不预写第三季交付或利润。",
+      "guidance": "",
+      "watches": [
+        "第二季 GAAP 净利润同比减少 0.58 亿美元，营收增加 57.4 亿美元。第三季财务结果对照这两个方向，不预填数字。",
+        "未找到公司发布的独立文字记录。对照时用更新 PDF 和公司网络直播。"
+      ],
+      "dateSources": [
+        {
+          "label": "SEC 附件",
+          "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026064366/exhibit991111111.htm"
+        },
+        {
+          "label": "IR 日历",
+          "url": "https://ir.tesla.com/"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "第三季日期 SEC 附件",
+          "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026064366/exhibit991111111.htm",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "产量交付稿",
+          "url": "https://ir.tesla.com/press-release/tesla-second-quarter-2026-production-deliveries-and-deployments",
+          "note": "第二季运营数据。"
+        },
+        {
+          "bucket": "official",
+          "label": "10-Q 讨论工具页",
+          "url": "https://app.edgar.tools/filing/1318605/0001628280-26-049270",
+          "note": "转述已归档原文，不是公司网站。"
+        },
+        {
+          "bucket": "pdf",
+          "label": "Q2 更新 PDF",
+          "url": "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q2-2026-Update.pdf",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "公司关于回放期限的 PDF",
+          "url": "https://ir.tesla.com/_flysystem/s3/sec/000162828026049213/tsla-20260722-gen.pdf",
+          "note": "公司写明回放大约一年。"
+        },
+        {
+          "bucket": "video",
+          "label": "2026-07-22 网络直播",
+          "url": "https://ir.tesla.com/webcast-2026-07-22",
+          "note": "页面内嵌视频。未找到单独的官方文字记录。"
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到公司发布的独立电话会文字记录。"
+      }
+    },
+    {
+      "id": "gm",
+      "name": "通用汽车",
+      "en": "General Motors",
+      "tickers": "GM",
+      "region": "美国",
+      "fy": "截至 12 月 31 日",
+      "order": 1,
+      "nextDate": "2026-10-20",
+      "nextWhen": "2026-10-20 约 06:30 ET 发稿，电话会 08:30 ET",
+      "nextPeriod": "2026 年第三季",
+      "headline": "2026 年第二季：营收 480.26 亿美元，同比 +1.9%；归属于股东净利润 13.05 亿美元，同比 -31.1%；EBIT-adjusted 39.43 亿美元，同比 +29.8%。",
+      "change": "调整后 EBIT 上升并上调全年指引，GAAP 净利润因项目差异同比下降。",
+      "guidance": "公司写明上调全年指引。指引的具体数字这次没有从原文摘入，本页不补。",
+      "later": [
+        {
+          "when": "2027-01-27",
+          "period": "2026 年第四季",
+          "note": "公司在第三季预告里同时给出，落在半年窗口内。"
+        },
+        {
+          "when": "2027-04-21",
+          "period": "2027 年第一季",
+          "note": "公司已预告。半年窗口收到 2027-04-18，这一天刚超出窗口，仍注明，不当作窗口内场次。"
+        }
+      ],
+      "watches": [
+        "EBIT-adjusted 同比 +29.8%，GAAP 净利润同比 -31.1%。第三季看这两个口径是否仍分开走。",
+        "全年指引已上调，但数字未摘入。对照时只核对公司新稿里的原句，不在这里填数。"
+      ],
+      "dateSources": [
+        {
+          "label": "公司新闻稿",
+          "url": "https://investor.gm.com/news-releases/news-release-details/gm-announces-third-quarter-2026-earnings-conference-call-details/"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "第三季电话会新闻稿",
+          "url": "https://investor.gm.com/news-releases/news-release-details/gm-announces-third-quarter-2026-earnings-conference-call-details/",
+          "note": "2026-09-15。同时预告第四季与 2027 年第一季日期。"
+        },
+        {
+          "bucket": "official",
+          "label": "第二季活动页",
+          "url": "https://investor.gm.com/events/event-details/general-motors-company-q2-2026-earnings-conference-call",
+          "note": "列出演示、股东信和新闻稿。页面写音频回放在 IR Events，未确认到单独直播地址。"
+        },
+        {
+          "bucket": "pdf",
+          "label": "Q2 新闻稿 PDF",
+          "url": "https://investor.gm.com/static-files/4ee9aed7-9a23-46d5-aa6c-093668907497",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "transcript": "未打开到公司发布的问答全文。",
+        "video": "活动页写回放在 IR Events，没有确认到可单独引用的直播地址。"
+      }
+    },
+    {
+      "id": "ford",
+      "name": "福特汽车",
+      "en": "Ford",
+      "tickers": "F",
+      "region": "美国",
+      "fy": "截至 12 月 31 日",
+      "order": 11,
+      "nextDate": "2026-10-28",
+      "nextWhen": "2026-10-28 17:00 ET",
+      "nextPeriod": "2026 年第三季",
+      "headline": "2026 年第二季：营收 483 亿美元，同比少 19 亿美元；净亏损 13 亿美元（含 BlueOval SK 处置等特殊项目）；调整后 EBIT 25 亿美元，同比增加 4 亿美元。批发 103.9 万辆，同比 -12%。",
+      "change": "GAAP 由特殊项目拉成亏损，公司同时上调全年调整后 EBIT 指引。",
+      "guidance": "公司上调全年调整后 EBIT 指引。具体数字这次没有从原文摘入。",
+      "watches": [
+        "GAAP 净亏损 13 亿美元，调整后 EBIT 25 亿美元。第三季看特殊项目是否仍主导 GAAP。",
+        "第二季活动页检索日返回 HTTP 403，文字记录因此没有打开。不收录代录稿。"
+      ],
+      "dateSources": [
+        {
+          "label": "第三季活动页",
+          "url": "https://shareholder.ford.com/events/event-details/2026/Ford-Motor-Company-Third-Quarter-2026-Earnings/default.aspx"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "第三季活动页",
+          "url": "https://shareholder.ford.com/events/event-details/2026/Ford-Motor-Company-Third-Quarter-2026-Earnings/default.aspx",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "第二季活动页",
+          "url": "https://shareholder.ford.com/events/event-details/2026/Ford-Motor-Company-Second-Quarter-2026-Earnings-2026-SI5RaTIfzi/default.aspx",
+          "note": "页面列出 Webcast、新闻稿、演示和 Transcript。检索日打开返回 HTTP 403。"
+        },
+        {
+          "bucket": "pdf",
+          "label": "Q2 新闻稿 PDF",
+          "url": "https://s205.q4cdn.com/882619693/files/doc_financials/2026/q2/Ford-Motor-Company-Q2-2026-Press-Release.pdf",
+          "note": ""
+        },
+        {
+          "bucket": "video",
+          "label": "SEC 8-K 中的第二季网络直播",
+          "url": "https://ford-motor-company-q2-2026-earnings-call.open-exchange.net/",
+          "note": "公司写明回放到 2026-08-04。检索日 2026-10-18 已过期。"
+        }
+      ],
+      "gaps": {
+        "transcript": "第二季活动页列出 Transcript，但该页返回 HTTP 403。不收录 6ix、Equibles、CapEdge 等转载。"
+      }
+    },
+    {
+      "id": "rivian",
+      "name": "Rivian",
+      "en": "Rivian",
+      "tickers": "RIVN",
+      "region": "美国",
+      "fy": "截至 12 月 31 日",
+      "order": 14,
+      "nextDate": "2026-10-29",
+      "nextWhen": "2026-10-29 收盘后发稿；网络直播 17:00 ET",
+      "nextPeriod": "2026 年第三季",
+      "headline": "第二季：收入 16.58 亿美元，上年同期 13.03 亿美元，同比 +27%；新闻稿净亏损 8.37 亿美元，上年同期净亏损 11.15 亿美元。产量 12,613，交付 12,194（交付同比 +14%）；毛利 1.79 亿美元，上年同期毛亏 2.06 亿美元。10-Q 归普通股股东净亏损为 8.33 亿美元，与新闻稿口径不同，头条用新闻稿。第三季运营数据（2026-10-02，尚非财报）：产量 19,751，交付 19,248。",
+      "change": "收入和交付上升，亏损收窄，对比期毛利由负转正。",
+      "guidance": "公司维持全年交付指引 65,000–70,000 辆。这是已经公布的运营指引，不是本页作的预测。",
+      "watches": [
+        "第二季毛利 1.79 亿美元，上年同期毛亏 2.06 亿美元。第三季财务结果看毛利是否仍为正，不预写金额。",
+        "全年交付指引 65,000–70,000。第三季只对照公司是否仍维持这个区间。"
+      ],
+      "dateSources": [
+        {
+          "label": "产量交付及业绩日",
+          "url": "https://rivian.com/newsroom/article/rivian-releases-q3-2026-production-and-delivery-figures"
+        },
+        {
+          "label": "IR",
+          "url": "https://rivian.com/investors"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "第三季产量与交付",
+          "url": "https://rivian.com/newsroom/article/rivian-releases-q3-2026-production-and-delivery-figures",
+          "note": "2026-10-02。同时给出财务业绩日。"
+        },
+        {
+          "bucket": "official",
+          "label": "SEC 第二季业绩稿",
+          "url": "https://www.sec.gov/Archives/edgar/data/1874178/000187417826000053/ex-9912q26rivianearningspr.htm",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "10-Q",
+          "url": "https://www.sec.gov/Archives/edgar/data/1874178/000187417826000054/rivn-20260630.htm",
+          "note": "归普通股股东净亏损 8.33 亿美元。"
+        }
+      ],
+      "gaps": {
+        "pdf": "已打开的是 SEC HTML，不是单独 PDF。",
+        "transcript": "未找到公司文字记录。",
+        "video": "第三季活动写有网络直播，回放要等发布后才有。第二季未收录代录。"
+      }
+    },
+    {
+      "id": "lucid",
+      "name": "Lucid",
+      "en": "Lucid",
+      "tickers": "LCID",
+      "region": "美国",
+      "fy": "截至 12 月 31 日",
+      "order": 32,
+      "nextDate": "2026-11-09",
+      "nextWhen": "2026-11-09 电话会 14:30 PT / 17:30 ET",
+      "nextPeriod": "2026 年第三季",
+      "headline": "已公布的第三季运营数据（2026-10-05）：产量 2,954，交付 3,806。公司称交付高于产量，因在消化库存。利润表随 11 月 9 日业绩公布。",
+      "change": "这一期还没有利润表。",
+      "guidance": "",
+      "watches": [
+        "11 月 9 日才有财务数字。此前只核对已公布的产量 2,954 和交付 3,806，不预写收入或亏损。"
+      ],
+      "dateSources": [
+        {
+          "label": "公司稿（PR Newswire）",
+          "url": "https://www.prnewswire.com/news-releases/lucid-announces-q3-production-and-deliveries-sets-date-for-third-quarter-2026-earnings-302898808.html"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "第三季产量交付与业绩日",
+          "url": "https://www.prnewswire.com/news-releases/lucid-announces-q3-production-and-deliveries-sets-date-for-third-quarter-2026-earnings-302898808.html",
+          "note": "2026-10-05，公司稿经 PR Newswire 发布。"
+        }
+      ],
+      "gaps": {
+        "pdf": "未打开到第三季财务 PDF，因为财务结果尚未发布。",
+        "transcript": "业绩会尚未举行。",
+        "video": "业绩会尚未举行。"
+      }
+    },
+    {
+      "id": "paccar",
+      "name": "PACCAR",
+      "en": "PACCAR",
+      "tickers": "PCAR",
+      "region": "美国",
+      "fy": "截至 12 月 31 日",
+      "order": 7,
+      "nextDate": "2026-10-27",
+      "nextWhen": "2026-10-27 电话会 09:00 PT / 12:00 ET",
+      "nextPeriod": "2026 年第三季",
+      "headline": "截至 2026-06-30 的第二季：净销售额及金融服务收入 75.5 亿美元，上年同期 75.1 亿美元；净利润 7.520 亿美元（每股 1.43 美元），上年同期 7.238 亿美元（每股 1.37 美元）。全球卡车交付 38,700 辆。稿内没有交付同比。",
+      "change": "收入和利润略高于去年同期。公司把同比增长写成略增。",
+      "guidance": "",
+      "watches": [
+        "净利润 7.520 亿美元对上年 7.238 亿美元。第三季看公司是否仍用「略增」描述。",
+        "全球交付 38,700 辆没有同比，不另补上年辆数。"
+      ],
+      "dateSources": [
+        {
+          "label": "第三季活动页",
+          "url": "https://investors.paccar.com/events-and-presentations/events/event-details/2026/PACCAR-Third-Quarter-2026-Earnings-Conference-Call/default.aspx"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "第二季新闻稿",
+          "url": "https://investors.paccar.com/financial-news/news-details/2026/PACCAR-Increases-Quarterly-Revenues-and-Profits/default.aspx",
+          "note": "2026-07-28。"
+        },
+        {
+          "bucket": "official",
+          "label": "第三季活动页",
+          "url": "https://investors.paccar.com/events-and-presentations/events/event-details/2026/PACCAR-Third-Quarter-2026-Earnings-Conference-Call/default.aspx",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "SEC 附件",
+          "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312526318918/pcar-ex99_1.htm",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "pdf": "已打开的是新闻稿和 SEC HTML。",
+        "transcript": "未找到公司文字记录。",
+        "video": "未找到已可引用的回放。"
+      }
+    },
+    {
+      "id": "vw",
+      "name": "大众集团",
+      "en": "Volkswagen Group",
+      "tickers": "VOW3.DE",
+      "region": "欧洲",
+      "fy": "截至 12 月 31 日",
+      "order": 13,
+      "nextDate": "2026-10-29",
+      "nextWhen": "2026-10-29 09:00 CET",
+      "nextPeriod": "2026 年前九个月",
+      "headline": "2026 年上半年：销售收入 1,581.02 亿欧元，同比 -0.2%；经营成果 59.31 亿欧元，同比 -11.6%；税后利润 31.03 亿欧元，同比 -30.7%。向客户交付 4,125,683 辆，同比 -6.3%。",
+      "change": "收入基本持平，经营利润和交付下降；公司把北美 ID.4 停产相关费用和组合因素列为经营利润压力，并预期下半年利润率改善。",
+      "guidance": "公司预期下半年利润率改善。已打开的材料没有给出新的利润率数字。",
+      "watches": [
+        "前九个月对照公司自己的话：下半年利润率改善。不补一个新的利润率。",
+        "上半年交付同比 -6.3%，经营成果同比 -11.6%。看这两项的方向，而不是另作预测。"
+      ],
+      "dateSources": [
+        {
+          "label": "九个月业绩页",
+          "url": "https://www.volkswagen-group.com/en/interim-report-and-9m-results-2026-20751"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "半年关键指标",
+          "url": "https://www.volkswagen-group.com/en/key-figures-18842",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "上半年新闻稿",
+          "url": "https://www.volkswagen-group.com/en/press-releases/volkswagen-group-stays-on-track-in-challenging-environment-and-expects-improved-margin-in-the-second-half-of-the-year-20542",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "上半年电话会演示页",
+          "url": "https://www.volkswagen-group.com/en/publications/presentations/h1-2026-investor-analyst-and-media-call-3290",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "财务结果索引",
+          "url": "https://www.volkswagen-group.com/en/financial-results-18486",
+          "note": "页面有上半年 Webcast 一行，提取到的链接里没有 2026 年上半年直播地址。"
+        },
+        {
+          "bucket": "official",
+          "label": "前九个月业绩页",
+          "url": "https://www.volkswagen-group.com/en/interim-report-and-9m-results-2026-20751",
+          "note": ""
+        },
+        {
+          "bucket": "video",
+          "label": "CEO 谈上半年业绩",
+          "url": "https://www.volkswagen-group.com/en/videos-and-footage/volkswagen-group-ceo-oliver-blume-on-half-year-results-13031",
+          "note": "约 9 分 45 秒，不是完整业绩会。"
+        }
+      ],
+      "gaps": {
+        "pdf": "关键数字在公司网页。演示页未再拆出单独 PDF 地址。",
+        "transcript": "未找到公司发布的完整问答文字记录。",
+        "video": "财务结果页列出 Webcast，但没有提取到 2026 年上半年直播 URL。视频栏只有 CEO 短片。"
+      }
+    },
+    {
+      "id": "bmw",
+      "name": "宝马集团",
+      "en": "BMW Group",
+      "tickers": "BMW.DE",
+      "region": "欧洲",
+      "fy": "截至 12 月 31 日",
+      "order": 24,
+      "nextDate": "2026-11-04",
+      "nextWhen": "2026-11-04，钟点未在该文件列出",
+      "nextPeriod": "2026 年第三季",
+      "headline": "2026 年上半年：收入 622.66 亿欧元，同比 -8.0%；EBIT 36.35 亿欧元，同比 -37.4%；净利润 28.72 亿欧元，同比 -28.5%；交付 1,156,727 辆，同比 -4.2%（中国 261,773 辆，同比 -20.4%）。",
+      "change": "欧洲和美国交付增长，中国跌幅扩大，集团利润降幅大于销量降幅。",
+      "guidance": "",
+      "watches": [
+        "中国交付同比 -20.4%，集团 EBIT 同比 -37.4%，交付同比 -4.2%。第三季看利润降幅是否仍大于销量降幅。",
+        "讲稿 PDF 本次直接打开超时，不编未打开的文件地址。"
+      ],
+      "dateSources": [
+        {
+          "label": "Q3 预沟通幻灯",
+          "url": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2026/q3/BMW-Group_Q3-2026_Pre-Close-Call_Slides.pdf"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "上半年新闻稿",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0459734EN/more-speed-more-efficiency:-bmw-group-realigns-for-tougher-competition?language=en",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "上半年关键数字 PDF",
+          "url": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2026/q2/BMW_AG_Press_release_More_Speed_More_Efficiency.pdf",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "Q3 预沟通幻灯",
+          "url": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/en/2026/q3/BMW-Group_Q3-2026_Pre-Close-Call_Slides.pdf",
+          "note": "2026-10-13。正式报表日期写为 2026-11-04。"
+        }
+      ],
+      "gaps": {
+        "transcript": "公司电话会目录列出讲稿。直接抓取超时，不收录未打开的文件地址。",
+        "video": "未确认到这场上半年电话会的公司直播地址。"
+      }
+    },
+    {
+      "id": "mercedes",
+      "name": "梅赛德斯-奔驰集团",
+      "en": "Mercedes-Benz Group",
+      "tickers": "MBG.DE",
+      "region": "欧洲",
+      "fy": "截至 12 月 31 日",
+      "order": 9,
+      "nextDate": "2026-10-28",
+      "nextWhen": "2026-10-28，电话会钟点页面未列",
+      "nextPeriod": "2026 年第三季中报",
+      "headline": "2026 年第二季：收入 320.61 亿欧元，同比 -3.3%；EBIT 15.47 亿欧元，同比 +21.5%；净利润 10.86 亿欧元，同比 +13.5%。乘用车销量 417,765，同比 -7.9%；轻型商用车 94,075，同比 +0.7%。乘用车 EBIT 从 7.83 亿欧元降到 0.49 亿欧元。",
+      "change": "集团 EBIT 同比上升，主要来自金融服务、轻型商用车和集团调节项；乘用车 EBIT 下降。",
+      "guidance": "",
+      "watches": [
+        "集团 EBIT 同比 +21.5%，乘用车 EBIT 从 7.83 亿欧元降到 0.49 亿欧元。第三季看集团与乘用车是否仍反向。"
+      ],
+      "dateSources": [
+        {
+          "label": "投资者活动",
+          "url": "https://group.mercedes-benz.com/investors/events/"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "投资者活动",
+          "url": "https://group.mercedes-benz.com/investors/events/",
+          "note": "第三季日期。"
+        },
+        {
+          "bucket": "official",
+          "label": "媒体稿",
+          "url": "https://media.mercedes-benz.com/en/article/ea3ffd54-b273-4596-b2f5-ab968581ceec",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "中期报告",
+          "url": "https://group.mercedes-benz.com/documents/investors/reports/interim-reports/q2/mercedes-benz-interim-report-q2-2026.pdf",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到公司问答全文。",
+        "video": "未找到公司托管的完整业绩会视频。"
+      }
+    },
+    {
+      "id": "stellantis",
+      "name": "斯泰兰蒂斯",
+      "en": "Stellantis",
+      "tickers": "STLA",
+      "region": "欧洲",
+      "fy": "截至 12 月 31 日",
+      "order": 10,
+      "nextDate": "2026-10-28",
+      "nextWhen": "2026-10-28 材料约 08:00 CET / 03:00 EDT；电话会 13:00 CET / 08:00 EDT",
+      "nextPeriod": "2026 年第三季财务业绩",
+      "headline": "2026 年第二季：净收入 434.82 亿欧元，同比 +13%；净利润 2.93 亿欧元，上年同期亏损 18.69 亿欧元；调整后经营利润 7.73 亿欧元，同比 +263%；合并发运 159.7 万辆，同比 +10%。上半年：净收入 816.14 亿欧元，同比 +10%；净利润 6.70 亿欧元，上年同期亏损 22.56 亿欧元；发运 295.8 万辆，同比 +11%。",
+      "change": "第二季收入、利润和发运都高于去年同期的亏损季度，公司重申 2026 年指引。",
+      "guidance": "公司重申 2026 年指引。具体目标数字这次没有从原文摘入。",
+      "watches": [
+        "第二季净利润 2.93 亿欧元，上年同期亏损 18.69 亿欧元。第三季看转盈是否延续，不补指引数字。",
+        "活动名称是第三季财务业绩。材料与电话会分开给时间。"
+      ],
+      "dateSources": [
+        {
+          "label": "活动页",
+          "url": "https://www.stellantis.com/en/investors/events-and-presentations"
+        },
+        {
+          "label": "2026 公司日历",
+          "url": "https://www.stellantis.com/en/news/press-releases/2026/january/stellantis-announces-2026-corporate-calendar"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "第二季新闻稿",
+          "url": "https://www.stellantis.com/en/news/press-releases/2026/july/second-quarter-2026-financial-results",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "SEC 6-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548426000064/stellantisnv20260630semi-a.htm",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "投资者活动",
+          "url": "https://www.stellantis.com/en/investors/events-and-presentations",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "2026 公司日历",
+          "url": "https://www.stellantis.com/en/news/press-releases/2026/january/stellantis-announces-2026-corporate-calendar",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "pdf": "已打开的是新闻稿和 6-K HTML。",
+        "transcript": "未找到公司文字记录。",
+        "video": "未找到可引用的回放地址。"
+      }
+    },
+    {
+      "id": "renault",
+      "name": "雷诺",
+      "en": "Renault Group",
+      "tickers": "RNO.PA",
+      "region": "欧洲",
+      "fy": "截至 12 月 31 日",
+      "order": 15,
+      "nextDate": "2026-10-29",
+      "nextWhen": "2026-10-29",
+      "nextPeriod": "2026 年第三季收入",
+      "nextNote": "公司股东杂志写 2026 Q3 Revenue 29.10.2026。MarketScreener 写 2026-10-28，本页用 10 月 29 日。这场按公司活动名称是营收，不是完整利润表。",
+      "headline": "2026 年上半年：集团收入 302.52 亿欧元，同比 +9.5%（剔除汇率 +10.3%）；经营利润 15.67 亿欧元，占收入 5.2%；经营收益 11.26 亿欧元，上年同期 -84.04 亿欧元（含日产会计处理）；净利润 7.21 亿欧元，集团应占 7.05 亿欧元（每股 2.39 欧元）。新闻稿未给单一全球销量。欧洲电动化组合 52.0%，同比 +8.2 个百分点；库存 54.6 万辆。第一季收入 125 亿欧元、同比 +7.3% 仍见公司财务页。",
+      "change": "收入上升，经营利润率稳住；上年同期经营收益被日产持股的会计变更压低。",
+      "guidance": "新闻稿确认 2026 全年指引。具体目标数字这次没有从原文摘入。",
+      "watches": [
+        "10 月 29 日只对照收入，不期待这份材料给出完整利润表。",
+        "上半年经营利润率 5.2%。第三季收入稿若没有利润率，就不补。"
+      ],
+      "dateSources": [
+        {
+          "label": "股东杂志",
+          "url": "https://www.renaultgroup.com/en/finance/shareholders/shareholders-magazine/"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "上半年新闻稿",
+          "url": "https://media.renaultgroup.com/renault-group-delivers-robust-performance-confirms-its-2026-fy-guidance-and-rapidly-implements-futuready/?lang=eng",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "股东杂志",
+          "url": "https://www.renaultgroup.com/en/finance/shareholders/shareholders-magazine/",
+          "note": "第三季收入日期。"
+        }
+      ],
+      "gaps": {
+        "pdf": "已打开的是新闻稿页面。",
+        "transcript": "未找到公司文字记录。",
+        "video": "未找到公司视频。"
+      }
+    },
+    {
+      "id": "porsche",
+      "name": "保时捷",
+      "en": "Porsche AG",
+      "tickers": "P911.DE",
+      "region": "欧洲",
+      "fy": "截至 12 月 31 日",
+      "order": 6,
+      "nextDate": "2026-10-27",
+      "nextWhen": "2026-10-27，页面未列钟点",
+      "nextPeriod": "2026 年第三季季度声明",
+      "nextNote": "按公司日历，这场是季度声明。",
+      "headline": "2026 年上半年：销售收入 172.29 亿欧元，上年同期 181.57 亿欧元，同比 -5.1%；经营利润 13.48 亿欧元，上年同期 10.07 亿欧元；销售回报率 7.8%，上年同期 5.5%。交付 122,306 辆，上年同期 146,391 辆，同比 -16.5%。",
+      "change": "交付和收入下降，经营利润上升，公司归因于成本和产品组合，以及重组费用小于上年。",
+      "guidance": "",
+      "watches": [
+        "交付同比 -16.5%，经营利润从上一年的 10.07 亿欧元升到 13.48 亿欧元。季度声明里看交付下降时利润是否仍上升。"
+      ],
+      "dateSources": [
+        {
+          "label": "财务日历",
+          "url": "https://investorrelations.porsche.com/en/calendar"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "新闻室",
+          "url": "https://newsroom.porsche.com/en/2026/company/porsche-financial-figures-half-year-2026-42785.html",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "财务日历",
+          "url": "https://investorrelations.porsche.com/en/calendar",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "半年报 PDF",
+          "url": "https://ir-api.eqs.com/storage/ir/bd1eb3/documents/e878dde2-ee0a-4dd8-a6bd-5f248340e4d9/DE000PAG9113-Q2-2026-EQ-E-00.pdf",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到公司问答全文。",
+        "video": "未找到完整业绩会视频。"
+      }
+    },
+    {
+      "id": "ferrari",
+      "name": "法拉利",
+      "en": "Ferrari",
+      "tickers": "RACE",
+      "region": "欧洲",
+      "fy": "截至 12 月 31 日",
+      "order": 23,
+      "nextDate": "2026-11-03",
+      "nextWhen": "2026-11-03 15:00 CET / 09:00 EST",
+      "nextPeriod": "2026 年第三季",
+      "headline": "2026 年第二季：净收入 19.38 亿欧元，同比 +8%（不变汇率 +11%）；EBIT 6.05 亿欧元，同比 +10%，利润率 31.2%；净利润 4.63 亿欧元。发运 3,366 辆，上年同期 3,494 辆。上半年：净收入 37.86 亿欧元（上年同期 35.78 亿欧元），EBIT 11.53 亿欧元（上年同期 10.94 亿欧元），净利润 8.76 亿欧元（上年同期 8.37 亿欧元），发运 6,802 辆（上年同期 7,087 辆）。",
+      "change": "组合和个性化抬高收入和 EBIT，发运下降。",
+      "guidance": "",
+      "watches": [
+        "第二季发运 3,366 对 3,494，EBIT 同比 +10%。第三季看发运下降时利润是否仍上升。"
+      ],
+      "dateSources": [
+        {
+          "label": "公司新闻稿转载",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ferrari-announce-third-quarter-2026-092700635.html"
+        },
+        {
+          "label": "财务日历",
+          "url": "https://www.ferrari.com/en-EN/corporate/financial-corporate-calendar"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "SEC 第二季业绩稿",
+          "url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000106/fnvq22026results.htm",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "中期报告",
+          "url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000107/ferrarinvinterimreport-063.htm",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "财务日历",
+          "url": "https://www.ferrari.com/en-EN/corporate/financial-corporate-calendar",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "第三季日期的公司稿转载",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ferrari-announce-third-quarter-2026-092700635.html",
+          "note": "法拉利 2026-10-16 宣布。转载页，时刻同时见财务日历。"
+        }
+      ],
+      "gaps": {
+        "pdf": "已打开的是 SEC HTML。",
+        "transcript": "未找到公司文字记录。",
+        "video": "未找到公司视频。"
+      }
+    },
+    {
+      "id": "volvocars",
+      "name": "沃尔沃汽车",
+      "en": "Volvo Cars",
+      "tickers": "VOLCAR-B.ST",
+      "region": "欧洲",
+      "fy": "截至 12 月 31 日",
+      "order": 3,
+      "nextDate": "2026-10-23",
+      "nextWhen": "2026-10-23 07:00 CET",
+      "nextPeriod": "2026 年第三季",
+      "nextNote": "与沃尔沃集团不是同一家公司。",
+      "headline": "2026 年第二季：收入 777 亿瑞典克朗，上年同期 935 亿瑞典克朗（上年同期含 40 亿瑞典克朗一次性项目）；EBIT 8 亿瑞典克朗，上年同期 -100 亿瑞典克朗；EBIT 利润率 1.1%，上年同期 -10.6%。销量同比 -5.6%，稿内未给辆数；纯电占比 25%，上年同期 21%。",
+      "change": "回到小幅经营盈利，收入低于去年，公司称降本目标提前完成。",
+      "guidance": "",
+      "watches": [
+        "EBIT 利润率 1.1%。第三季看小幅经营盈利是否还在，不预设新的利润率。",
+        "销量只有同比 -5.6%，没有辆数，不补辆数。"
+      ],
+      "dateSources": [
+        {
+          "label": "财务日历",
+          "url": "https://investors.volvocars.com/en/news-and-events/calendar/financial-calendar"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "第二季新闻稿",
+          "url": "https://www.volvocars.com/intl/media/press-releases/E1FF86100808BB97/",
+          "note": "2026-07-17。"
+        },
+        {
+          "bucket": "official",
+          "label": "财务日历",
+          "url": "https://investors.volvocars.com/en/news-and-events/calendar/financial-calendar",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "pdf": "已打开的是新闻稿页面。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "volvogroup",
+      "name": "沃尔沃集团",
+      "en": "Volvo Group",
+      "tickers": "VOLV-B.ST",
+      "region": "欧洲",
+      "fy": "截至 12 月 31 日",
+      "order": 4,
+      "nextDate": "2026-10-23",
+      "nextWhen": "2026-10-23 07:20 CEST 发稿；新闻会 09:00 CEST",
+      "nextPeriod": "2026 年第三季",
+      "nextNote": "卡车等商用车集团，不是沃尔沃乘用车。",
+      "headline": "2026 年第二季：净销售额 1,262.73 亿瑞典克朗，上年同期 1,228.96 亿瑞典克朗，同比 +3%（有机 +7%）。调整后营业利润 147.83 亿瑞典克朗，上年同期 134.84 亿瑞典克朗，利润率 11.7% 对 11.0%；报表营业利润 134.78 亿瑞典克朗，上年同期 99.61 亿瑞典克朗。",
+      "change": "销售额和调整后利润率上升。",
+      "guidance": "",
+      "watches": [
+        "调整后营业利润率 11.7%，上年同期 11.0%。第三季对照这个口径，不预设新利润率。"
+      ],
+      "dateSources": [
+        {
+          "label": "第三季页面",
+          "url": "https://www.volvogroup.com/en/news-and-media/events/2026/oct/third-quarter-2026.html"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "第二季新闻",
+          "url": "https://www.volvogroup.com/en/news-and-media/news/2026/jul/volvo-group--the-second-quarter-2026.html",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "第三季页面",
+          "url": "https://www.volvogroup.com/en/news-and-media/events/2026/oct/third-quarter-2026.html",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "季报 PDF",
+          "url": "https://www.volvogroup.com/content/dam/volvo-group/markets/master/investors/reports-and-presentations/interim-reports/2026/volvo-group-q2-2026-eng.pdf",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "daimler",
+      "name": "戴姆勒卡车",
+      "en": "Daimler Truck",
+      "tickers": "DTG.DE",
+      "region": "欧洲",
+      "fy": "截至 12 月 31 日",
+      "order": 30,
+      "nextDate": "2026-11-06",
+      "nextWhen": "2026-11-06",
+      "nextPeriod": "2026 年第三季",
+      "headline": "2026 年第二季：集团收入 122.92 亿欧元，上年同期 116.74 亿欧元，同比 +5%。调整后集团 EBIT 8.38 亿欧元，上年同期 10.22 亿欧元；报表 EBIT 3.60 亿欧元，上年同期 3.96 亿欧元，同比 -9%；净利润 1.28 亿欧元，上年同期 2.45 亿欧元，同比 -48%。销量 86,707 辆，上年同期 80,607 辆，同比 +8%。",
+      "change": "销量和收入上升，关税压低利润率；公司因北美展望上调全年指引。",
+      "guidance": "公司因北美展望上调全年指引。具体区间这次没有从原文摘入。",
+      "watches": [
+        "销量同比 +8%，调整后集团 EBIT 8.38 对 10.22 亿欧元。第三季看利润率与公司指引表述，不补区间。"
+      ],
+      "dateSources": [
+        {
+          "label": "财务日历",
+          "url": "https://www.daimlertruck.com/en/investors/financial-calendar"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "新闻稿",
+          "url": "https://www.daimlertruck.com/en/newsroom/pressrelease/daimler-truck-raises-full-year-2026-guidance-on-improved-outlook-for-trucks-north-america-53561469",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "财务日历",
+          "url": "https://www.daimlertruck.com/en/investors/financial-calendar",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "中期报告 PDF",
+          "url": "https://www.daimlertruck.com/fileadmin/user_upload/documents/investors/reports/interim-reports/q2/2026/daimler-tuck-ir-interim-report-q2-2026.pdf",
+          "note": "文件名沿用公司路径原文。"
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "traton",
+      "name": "传拓",
+      "en": "Traton",
+      "tickers": "8TRA.DE",
+      "region": "欧洲",
+      "fy": "截至 12 月 31 日",
+      "order": 12,
+      "nextDate": "2026-10-28",
+      "nextWhen": "2026-10-28，钟点未列",
+      "nextPeriod": "2026 年前九个月中期声明",
+      "headline": "2026 年第二季，摘自公司投资者演示：销量 82,925 辆，同比 +4%；销售收入 118 亿欧元，同比 +4%；调整后经营业绩 9.57 亿欧元，上年同期 7.25 亿欧元，同比 +32%；调整后销售回报率 8.1%，同比 +1.7 个百分点。完整半年报利润表没有另打开，上半年合计不补写。",
+      "change": "第二季销量和收入上升，调整后利润率高于去年同期。",
+      "guidance": "",
+      "watches": [
+        "只用演示里的实际数：调整后经营业绩 9.57 对 7.25 亿欧元，回报率 8.1%。不采用同页的市场一致预期。",
+        "前九个月若公司改口径，以新声明为准，不把第二季数字外推成九个月。"
+      ],
+      "dateSources": [
+        {
+          "label": "财务日期",
+          "url": "https://ir.traton.com/en/financial-dates-events"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "财务日期",
+          "url": "https://ir.traton.com/en/financial-dates-events",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "Q2 投资者演示",
+          "url": "https://ir.traton.com/media/document/09f20412-18d0-4190-a81e-d9b2b4e8d17e/assets/TRATON_Analyst_Investor_Presentation_Q2_2026.pdf",
+          "note": "实际数来自这份演示。同页一致预期不采用。"
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "iveco",
+      "name": "依维柯集团",
+      "en": "Iveco Group",
+      "tickers": "IVG.MI",
+      "region": "欧洲",
+      "fy": "截至 12 月 31 日",
+      "order": 26,
+      "nextDate": "2026-11-05",
+      "nextWhen": "2026-11-05",
+      "nextPeriod": "2026 年第三季",
+      "nextNote": "MarketScreener 写 11 月 4 日，与公司日历不一致，本页用 11 月 5 日。",
+      "headline": "2026 年第二季：合并收入 37.64 亿欧元，同比 +7.3%；工业活动收入 36.96 亿欧元，同比 +7.9%。调整后 EBIT 1.31 亿欧元，上年同期 1.71 亿欧元；期间利润 0.38 亿欧元，上年同期 0.79 亿欧元。稿内没有单一全球销量。欧洲轻型订单 +21%，中重型订单 +47%。",
+      "change": "欧洲需求带动收入上升，利润下降，公司归因于质量投入。",
+      "guidance": "",
+      "watches": [
+        "收入同比上升，调整后 EBIT 1.31 对 1.71 亿欧元。第三季看利润下降是否仍被公司写成质量投入。",
+        "没有单一全球销量，不补销量。"
+      ],
+      "dateSources": [
+        {
+          "label": "2026 日历新闻稿",
+          "url": "https://www.ivecogroup.com/media/corporate_press_releases/2026/january/corporate_updates_and_2026_calendar"
+        },
+        {
+          "label": "公司日历",
+          "url": "https://www.ivecogroup.com/investors/events/corporate_calendar"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "第二季新闻稿",
+          "url": "https://www.ivecogroup.com/media/corporate_press_releases/2026/july/iveco_group_2026_second_quarter_results",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "公司日历",
+          "url": "https://www.ivecogroup.com/investors/events/corporate_calendar",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "2026 日历新闻稿",
+          "url": "https://www.ivecogroup.com/media/corporate_press_releases/2026/january/corporate_updates_and_2026_calendar",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "pdf": "已打开的是新闻稿页面。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "aston",
+      "name": "阿斯顿·马丁",
+      "en": "Aston Martin Lagonda",
+      "tickers": "AML.L",
+      "region": "欧洲",
+      "fy": "截至 12 月 31 日",
+      "order": 115,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "公司日历列出 Q3 2026 Results，检索到的页面文本没有日期。",
+      "headline": "截至 2026-06-30：批发 2,331 辆，上年同期 1,922 辆，同比 +21%；收入 6.286 亿英镑，上年同期 4.544 亿英镑，同比 +38%。调整后 EBIT 亏损 1.089 亿英镑，上年同期亏损 1.215 亿英镑（亏损收窄 10%）；报表经营亏损 0.565 亿英镑，上年同期亏损 1.347 亿英镑；期间亏损 1.531 亿英镑，上年同期亏损 1.487 亿英镑。",
+      "change": "Valhalla 等特别车交付拉高收入和毛利，调整后经营亏损收窄，税前亏损仍因融资费用扩大。",
+      "guidance": "",
+      "watches": [
+        "调整后经营亏损收窄，期间亏损从 1.487 亿英镑扩到 1.531 亿英镑。有日期后把这两个亏损口径分开对照。"
+      ],
+      "dateSources": [
+        {
+          "label": "公司日历",
+          "url": "https://www.astonmartin.com/en/corporate/investors/calendar"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "公司日历",
+          "url": "https://www.astonmartin.com/en/corporate/investors/calendar",
+          "note": "列出第三季，没有日期。"
+        },
+        {
+          "bucket": "pdf",
+          "label": "H1 业绩 PDF",
+          "url": "https://www.astonmartin.com/-/media/corporate/documents/2026/aston-martin-lagonda-h1-2026-results.pdf?rev=11d26777670e4ba0a7f353edf59477c0",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "polestar",
+      "name": "Polestar",
+      "en": "Polestar",
+      "tickers": "PSNY",
+      "region": "欧洲",
+      "fy": "截至 12 月 31 日",
+      "order": 116,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "IR 近期活动列表没有第三季业绩日。",
+      "headline": "2026-07-09 公司稿：2026 年上半年零售约 30,423 辆，第二季约 17,296 辆。这不是利润表。",
+      "change": "只有零售辆数。",
+      "figureGap": "",
+      "guidance": "",
+      "watches": [
+        "没有打开的利润表，不写收入或亏损策略。下一场日期公布前只保留零售约数。"
+      ],
+      "dateSources": [
+        {
+          "label": "IR",
+          "url": "https://investors.polestar.com/investor-relations/"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "IR",
+          "url": "https://investors.polestar.com/investor-relations/",
+          "note": "上半年零售稿转载于该页。没有第三季业绩日。"
+        }
+      ],
+      "gaps": {
+        "pdf": "未打开到利润表 PDF。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "toyota",
+      "name": "丰田",
+      "en": "Toyota",
+      "tickers": "7203.T，TM",
+      "region": "日本",
+      "fy": "截至 3 月 31 日",
+      "order": 25,
+      "nextDate": "2026-11-05",
+      "nextWhen": "2026-11-05",
+      "nextPeriod": "2027 财年第二季 / 上半年（截至 2026-09-30）",
+      "headline": "2027 财年第一季（2026-04-01 至 2026-06-30）：销售收入 13.5254 万亿日元，同比 +10.4%；营业利润 1.0635 万亿日元，同比 -8.8%；归属于丰田的净利润 1.4770 万亿日元，同比 +75.6%。合并车辆销量约 239.5 万辆，同比约少 1.6 万辆。",
+      "change": "营业利润同比下降，净利润同比大增，公司材料把汇率和其他收益与营业利润分开列示。",
+      "guidance": "公司 2026-08-04 的全年指引：销售收入 54.0 万亿日元，营业利润 3.4 万亿日元，净利润 3.25 万亿日元，汇率假设 160 日元/美元。这是公司已经说过的全年数。",
+      "watches": [
+        "上半年发布时对照 8 月 4 日指引的四个数，看公司是维持还是修改，不在本页改写指引。",
+        "营业利润同比 -8.8%，净利润同比 +75.6%。对照时保持这两个口径分开。"
+      ],
+      "dateSources": [
+        {
+          "label": "公司 IR 日历",
+          "url": "https://global.toyota/en/ir/"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "财务摘要（SEC 附件）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1094517/000119312526331392/d258414dex991.htm",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "美国新闻室",
+          "url": "https://pressroom.toyota.com/tmc-announces-april-through-june-2026-financial-results/",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "IR 日历",
+          "url": "https://global.toyota/en/ir/",
+          "note": "下次：2026-11-05。"
+        },
+        {
+          "bucket": "official",
+          "label": "财务结果索引",
+          "url": "https://global.toyota/en/ir/financial-results/index.html",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "第一季摘要",
+          "url": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_1q_summary_en.pdf",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "第一季演示",
+          "url": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_1q_presentation_en.pdf",
+          "note": ""
+        },
+        {
+          "bucket": "transcript",
+          "label": "带 transcripts 的演示",
+          "url": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_1q_presentation_2_en.pdf",
+          "note": "IR 索引上的第三份英文文件。"
+        },
+        {
+          "bucket": "transcript",
+          "label": "问答 PDF",
+          "url": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_1q_qa_en.pdf",
+          "note": "公司 IR 上的 Q&A。"
+        }
+      ],
+      "gaps": {
+        "video": "未找到公司托管的这场业绩会视频。"
+      }
+    },
+    {
+      "id": "honda",
+      "name": "本田",
+      "en": "Honda",
+      "tickers": "7267.T，HMC",
+      "region": "日本",
+      "fy": "截至 3 月 31 日",
+      "order": 117,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "官方日历截至检索日只列到 2026-08-05 的第一财季说明会。第三方写的 11 月 11 日未采用。",
+      "headline": "截至 2026-06-30 的第一财季：销售收益 6,061,514 百万日元（上一财年同期 5,340,268，同比约 +13.5%）；营业利润 530,767 百万日元（同期 244,170，同比约 +117%）；归母利润 450,915 百万日元（同期 196,670，同比约 +129%）。同比按公司季度表计算。",
+      "change": "第一财季利润同比明显回升。上一财年（截至 2026-03-31）营业利润和归母利润均为亏损。",
+      "guidance": "公司在 2026-08-05 上调截至 2027-03-31 财年预测：销售收益 24.15 万亿日元，营业利润 6,500 亿日元，归母利润 4,000 亿日元，日元假设从 145 调至 155 日元/美元。",
+      "watches": [
+        "下一场日期未公布。日历更新后，对照 8 月 5 日这组预测是否被公司修改。",
+        "同比百分比是按公司表计算的，引用时和公司原表一起看。"
+      ],
+      "dateSources": [
+        {
+          "label": "IR 日历",
+          "url": "https://global.honda/en/investors/calendar.html"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "季度财务亮点",
+          "url": "https://global.honda/en/investors/financial_data/highlight2.html",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "IR 日历",
+          "url": "https://global.honda/en/investors/calendar.html",
+          "note": "未列出下一场。"
+        },
+        {
+          "bucket": "pdf",
+          "label": "预测修订 PDF",
+          "url": "https://global.honda/en/investors/library/filings/auto_20260804508673/pdfFile.pdf",
+          "note": "2026-08-05。"
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到可单独引用的问答全文。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "nissan",
+      "name": "日产",
+      "en": "Nissan",
+      "tickers": "7201.T",
+      "region": "日本",
+      "fy": "截至 3 月 31 日",
+      "order": 35,
+      "nextDate": "2026-11-11",
+      "nextWhen": "2026-11-11",
+      "nextPeriod": "公司所称 FY2026 上半年（截至 2026-09-30）",
+      "nextNote": "英文站以起始年把该年度称为 FY2026，财年止于 2027-03-31。",
+      "headline": "公司所称 FY2026 第一季（截至 2026-06-30）：销售额 2.9642 万亿日元，同比 +9.5%；营业利润 779 亿日元，公司写改善 1,570 亿日元；归母净利润 38 亿日元，公司写改善 1,195 亿日元。零售 70.1 万辆，同比 -0.9%。",
+      "change": "汇率和降本把营业利润扭正，零售量略降。",
+      "guidance": "",
+      "watches": [
+        "上半年看营业利润是否仍为正。第一季营业利润 779 亿日元，零售同比 -0.9%。",
+        "沿用公司自己的 FY2026 叫法，不改成截至 2027 年 3 月的另一套标签。"
+      ],
+      "dateSources": [
+        {
+          "label": "公司 IR",
+          "url": "https://www.nissan-global.com/EN/IR/"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "公司 IR",
+          "url": "https://www.nissan-global.com/EN/IR/",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "第一季 PDF",
+          "url": "https://www.nissan-global.com/EN/IR/FINANCIAL_RESULTS/ASSETS/DATA/2026/20261st_financialresult_918_e.pdf",
+          "note": "2026-08-03。"
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "mazda",
+      "name": "马自达",
+      "en": "Mazda",
+      "tickers": "7261.T",
+      "region": "日本",
+      "fy": "截至 3 月 31 日",
+      "order": 31,
+      "nextDate": "2026-11-09",
+      "nextWhen": "2026-11-09 13:30 JST",
+      "nextPeriod": "截至 2027 年 3 月财年第二季",
+      "headline": "截至 2027 年 3 月财年第一季：全球销量 30.4 万辆，上年同期 30.1 万辆，同比 +1%；净销售额 1.2857 万亿日元，上年同期 1.0998 万亿日元，同比 +17%；营业利润 328 亿日元，上年同期营业亏损 461 亿日元；净利润 296 亿日元，上年同期净亏损 421 亿日元。",
+      "change": "销量和汇率把第一季拉回盈利，公司称收入创该季纪录。",
+      "guidance": "",
+      "watches": [
+        "第二季看盈利是否还在。第一季扭亏是已发生的事实，不把「创纪录」外推到第二季。"
+      ],
+      "dateSources": [
+        {
+          "label": "IR 日历",
+          "url": "https://www.mazda.com/en/investors/calendar/"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "财务亮点",
+          "url": "https://www.mazda.com/en/investors/financial/highlight/",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "IR 日历",
+          "url": "https://www.mazda.com/en/investors/calendar/",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "pdf": "数字在公司财务亮点页，未另打开单独 PDF。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "subaru",
+      "name": "斯巴鲁",
+      "en": "Subaru",
+      "tickers": "7270.T",
+      "region": "日本",
+      "fy": "截至 3 月 31 日",
+      "order": 33,
+      "nextDate": "2026-11-10",
+      "nextWhen": "2026-11-10",
+      "nextPeriod": "截至 2027 年 3 月财年上半年",
+      "headline": "截至 2027 年 3 月财年第一季：收入 1.2509 万亿日元，同比 +3.0%；营业利润 426 亿日元，同比 -44.3%；归母利润 492 亿日元，同比 -10.3%。合并销量 22.0 万辆，上年同期 24.4 万辆。",
+      "change": "汇率抬高收入，利润下降，公司归因于销量、激励和原材料。",
+      "guidance": "",
+      "watches": [
+        "营业利润同比 -44.3%。上半年看公司是否仍用销量、激励和原材料解释。"
+      ],
+      "dateSources": [
+        {
+          "label": "IR 日历",
+          "url": "https://www.subaru.co.jp/en/ir/calendar.html"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "最新业绩页",
+          "url": "https://www.subaru.co.jp/en/ir/finance/latest-results.html",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "IR 日历",
+          "url": "https://www.subaru.co.jp/en/ir/calendar.html",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "pdf": "数字在最新业绩页。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "suzuki",
+      "name": "铃木",
+      "en": "Suzuki",
+      "tickers": "7269.T",
+      "region": "日本",
+      "fy": "截至 3 月 31 日",
+      "order": 34,
+      "nextDate": "2026-11-10",
+      "nextWhen": "2026-11-10 14:00",
+      "nextPeriod": "2027 年 3 月期第二季",
+      "nextNote": "日文站写 2027 年 3 月期第二季，英文站写 FY2026 第二季，是同一事件。",
+      "headline": "英文材料称 FY2026 第一季，即截至 2027 年 3 月的财年第一季：收入 1.7058 万亿日元，上年同期 1.3978 万亿日元，同比 +22.0%；营业利润 1,580 亿日元，上年同期 1,421 亿日元，同比 +11.2%，利润率 9.3% 对 10.2%。汽车全球销量 89.7 万辆，上年同期 75.4 万辆，同比 +19.0%；摩托车 57.9 万辆，上年同期 54.8 万辆，同比 +5.6%。",
+      "change": "销量把收入和利润推到该季纪录，营业利润率因原材料略降。",
+      "guidance": "",
+      "watches": [
+        "营业利润率 9.3%，上年同期 10.2%。第二季看利润率是否仍被公司归因于原材料。",
+        "日文与英文的财年标签不同，日期都是 2026-11-10 14:00。"
+      ],
+      "dateSources": [
+        {
+          "label": "日文 IR 日历",
+          "url": "https://www.suzuki.co.jp/ir/calendar/"
+        },
+        {
+          "label": "英文日历",
+          "url": "https://www.globalsuzuki.com/ir/calendar/index.html"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "日文 IR 日历",
+          "url": "https://www.suzuki.co.jp/ir/calendar/",
+          "note": "2027 年 3 月期。"
+        },
+        {
+          "bucket": "official",
+          "label": "英文日历",
+          "url": "https://www.globalsuzuki.com/ir/calendar/index.html",
+          "note": "同一场写成 FY2026。"
+        },
+        {
+          "bucket": "pdf",
+          "label": "第一季演示 PDF",
+          "url": "https://www.globalsuzuki.com/ir/library/financialresults/pdf/2026/financial_presentation_1q.pdf",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到问答全文。演示 PDF 在 PDF 栏。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "mmc",
+      "name": "三菱汽车",
+      "en": "Mitsubishi Motors",
+      "tickers": "7211.T",
+      "region": "日本",
+      "fy": "截至 3 月 31 日",
+      "order": 28,
+      "nextDate": "2026-11-06",
+      "nextWhen": "2026-11-06",
+      "nextPeriod": "公司所称 FY2026 第二季（财年截至 2027-03-31）",
+      "nextNote": "不是三菱重工，也不是三菱扶桑卡车。",
+      "headline": "公司所称 FY2026 第一季：净销售额 6,198.63 亿日元，同比 +1.8%；营业利润 100.82 亿日元，同比 +78.8%；归母利润 14.11 亿日元，同比 +91.2%。已打开的 PDF 没有单一销量。",
+      "change": "销售额增幅很小，利润大幅回升。",
+      "guidance": "",
+      "watches": [
+        "销售额同比 +1.8%，营业利润同比 +78.8%。第二季看利润回升是否仍快于收入。",
+        "PDF 没有单一销量，不补辆数。"
+      ],
+      "dateSources": [
+        {
+          "label": "IR 日历",
+          "url": "https://www.mitsubishi-motors.com/en/investors/library/calendar.html"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "IR 日历",
+          "url": "https://www.mitsubishi-motors.com/en/investors/library/calendar.html",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "第一季 PDF",
+          "url": "https://www.mitsubishi-motors.com/en/investors/library/pdf/financial/2026/260803_FY26Q1_1e.pdf",
+          "note": "2026-08-03。"
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "isuzu",
+      "name": "五十铃",
+      "en": "Isuzu",
+      "tickers": "7202.T",
+      "region": "日本",
+      "fy": "截至 3 月 31 日",
+      "order": 29,
+      "nextDate": "2026-11-06",
+      "nextWhen": "2026-11-06 约 14:00 JST",
+      "nextPeriod": "截至 2027-03-31 财年第二季",
+      "nextNote": "新闻室 2026-10-02 给出具体日期。IR 日历仍写 11 月初，本页用新闻室的 11 月 6 日。",
+      "headline": "截至 2027 年 3 月财年第一季：收入 8,325.19 亿日元，同比 +6.8%；营业利润 747.61 亿日元，同比 +30.7%；归母利润 509.38 亿日元，同比 +23.0%。全球销量 13.2 万辆，上年同期 14.2 万辆，同比 -7%（商用车 7.0 万辆，同比 -11%；轻型商用车 6.2 万辆，同比 -1%）。",
+      "change": "销量下降，价格、成本和汇率仍把利润抬高。",
+      "guidance": "",
+      "watches": [
+        "销量同比 -7%，营业利润同比 +30.7%。第二季看量降利升是否还在。"
+      ],
+      "dateSources": [
+        {
+          "label": "新闻室",
+          "url": "https://www.isuzu-global.com/en/newsroom.html"
+        },
+        {
+          "label": "IR 日历",
+          "url": "https://www.isuzu-global.com/en/investor/stock/calendar.html"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "新闻室",
+          "url": "https://www.isuzu-global.com/en/newsroom.html",
+          "note": "2026-10-02 更新的日期。"
+        },
+        {
+          "bucket": "official",
+          "label": "IR 日历",
+          "url": "https://www.isuzu-global.com/en/investor/stock/calendar.html",
+          "note": "仍写 11 月初。"
+        },
+        {
+          "bucket": "pdf",
+          "label": "东证披露 PDF",
+          "url": "https://www2.jpx.co.jp/disc/72020/140120260731505891.pdf",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "公司幻灯",
+          "url": "https://www.isuzu-global.com/en/investor/financial/results/main/0/teaserItems3/0/linkList/0/link/kessan202703_1e.pdf",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到问答全文。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "hyundai",
+      "name": "现代汽车",
+      "en": "Hyundai Motor",
+      "tickers": "005380.KS",
+      "region": "韩国",
+      "fy": "截至 12 月 31 日",
+      "order": 118,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "行情网站写的 10 月 29 日是估计，不用。韩国法定截止 2026-11-16 不是公司发布日。",
+      "headline": "2026 年第二季（2026-07-23，公司标明暂定、审计前可能调整）：收入 49.215 万亿韩元，同比 +1.9%；营业利润 2.851 万亿韩元，同比 -20.8%，利润率 5.8%；净利润 2.888 万亿韩元，同比 -11.2%（含少数股东）。批发 991,885 辆，同比 -6.9%；混动 187,661 辆，公司称创纪录，占比 18.9%。",
+      "change": "季度收入创纪录，利润下降，公司归因于供应商扰动、原材料和竞争。",
+      "guidance": "",
+      "watches": [
+        "营业利润同比 -20.8%，利润率 5.8%。日期公布后看公司是否仍用供应商、原材料和竞争解释。数字为暂定。",
+        "不用行情网站的 10 月 29 日。"
+      ],
+      "dateSources": [
+        {
+          "label": "投资者关系",
+          "url": "https://www.hyundai.com/worldwide/en/company/ir"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "公司新闻室",
+          "url": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001234",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "暂定披露说明",
+          "url": "https://www.hyundai.com/worldwide/en/company/ir/notices/view-0000000373-en-10-1-",
+          "note": ""
+        },
+        {
+          "bucket": "official",
+          "label": "投资者关系",
+          "url": "https://www.hyundai.com/worldwide/en/company/ir",
+          "note": "未列出下一场日期。"
+        }
+      ],
+      "gaps": {
+        "pdf": "已打开的是新闻室页面，不是单独 PDF。",
+        "transcript": "未找到公司文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "kia",
+      "name": "起亚",
+      "en": "Kia",
+      "tickers": "000270.KS",
+      "region": "韩国",
+      "fy": "截至 12 月 31 日",
+      "order": 16,
+      "nextDate": "2026-10-30",
+      "nextWhen": "2026-10-30 14:00（韩国时间）",
+      "nextPeriod": "2026 年第三季业绩说明会",
+      "nextNote": "日期来自对金融监督院 IR 公示的汇总，页面更新 2026-10-18。MarketScreener 的 10 月 22 日标为 Projected，不用。",
+      "headline": "2026 年第二季（2026-07-24 公司演示，未经审计）：收入 33.037 万亿韩元，同比 +12.6%；营业利润 2.629 万亿韩元，同比 -4.9%，利润率 8.0%，上年同期 9.4%。合并批发 803,985 辆，上年同期 770,671 辆，同比 +4.3%；零售 83.9 万辆，上年同期 79.2 万辆，同比 +5.8%。演示摘录没有清楚的净利润行。",
+      "change": "销量和收入上升，营业利润因激励和汇率下降。",
+      "guidance": "",
+      "watches": [
+        "营业利润率 8.0%，上年同期 9.4%。说明会对照利润率，不补演示里没有的净利润。",
+        "日期用 10 月 30 日 14:00，不用 Projected 的 10 月 22 日。"
+      ],
+      "dateSources": [
+        {
+          "label": "业绩说明会汇总",
+          "url": "https://todaystk.kr/calendar/%EC%8B%A4%EC%A0%81%EB%B0%9C%ED%91%9C"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "pdf",
+          "label": "公司业绩演示 PDF",
+          "url": "https://worldwide.kia.com/files/investors/business-sales-result/ag/207049708/ouqv/207049661itpu.pdf",
+          "note": "未经审计。"
+        }
+      ],
+      "gaps": {
+        "official": "说明会日期来自金融监督院 IR 公示汇总，不是公司新闻稿。",
+        "transcript": "未找到公司文字记录。",
+        "video": "未找到公司视频。"
+      }
+    },
+    {
+      "id": "kgm",
+      "name": "KG Mobility",
+      "en": "KG Mobility",
+      "tickers": "003620.KS",
+      "region": "韩国",
+      "fy": "截至 12 月 31 日",
+      "order": 119,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "未核到下次日期。",
+      "headline": "",
+      "change": "",
+      "figureGap": "仍缺最近一期数字。索引显示 2026-07-28 DART 有营业（暂定）实绩，本次未能打开 DART 原文。新闻转述不用。",
+      "guidance": "",
+      "watches": [
+        "先打开 DART 原文再写核对项。不用新闻里的利润数字。"
+      ],
+      "dateSources": [
+        {
+          "label": "公司 IR 资料室",
+          "url": "https://www.kg-mobility.com/cm/ir-data/management-performance"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "公司 IR 资料室",
+          "url": "https://www.kg-mobility.com/cm/ir-data/management-performance",
+          "note": "原文应在 DART。本次未打开 DART 文件。"
+        }
+      ],
+      "gaps": {
+        "pdf": "DART 暂定实绩未能打开。",
+        "transcript": "没有可引用的文字记录。",
+        "video": "没有可引用的视频。"
+      }
+    },
+    {
+      "id": "tata",
+      "name": "塔塔汽车",
+      "en": "Tata Motors Limited",
+      "tickers": "以公告标题为准",
+      "region": "印度",
+      "fy": "截至 3 月 31 日",
+      "order": 5,
+      "nextDate": "2026-10-23",
+      "nextWhen": "2026-10-23，电话会为印度时间下午",
+      "nextPeriod": "2027 财年第二季（截至 2026-09-30）",
+      "nextNote": "公告标题为 Tata Motors Limited。乘用车与商用车已分拆。这场日期只核到商用车这一则。使用前核对 BSE/NSE。",
+      "headline": "Tata Motors Limited（原 TML Commercial Vehicles）2027 财年第一季：合并收入 ₹20,700 crore（2,070 亿印度卢比），同比 +19%；税后利润 ₹2,600 crore（260 亿印度卢比），同比 +83%，公司写明含 Tata Capital 投资的市值变动。EBITDA ₹2,300 crore，同比 +10%。单体收入 ₹19,300 crore，同比 +23%；单体税后利润 ₹1,500 crore。没有单一全球销量。另一上市主体 Tata Motors Passenger Vehicles（含捷豹路虎）同季合并收入 ₹95,800 crore（9,580 亿印度卢比），同比 +9.3%；税后利润 ₹900 crore（90 亿印度卢比）。捷豹路虎批发同比 -9.2%，收入 60 亿英镑，同比 -9.6%。",
+      "change": "商用车收入和利润上升，利润增幅里有投资市值收益；乘用车合并收入上升，捷豹路虎批发下降。",
+      "guidance": "",
+      "watches": [
+        "商用车税后利润同比 +83%，公司写明含 Tata Capital 市值变动。第二季看利润里是否仍包括这项。",
+        "乘用车（含捷豹路虎）是另一上市主体。这场日期没有核到它，不把它的发布日写成 10 月 23 日。"
+      ],
+      "dateSources": [
+        {
+          "label": "公告转载",
+          "url": "https://financialfilings.com/filings/tata-motors-limited/report-publication-announcement/2026/66301953/"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "商用车公司稿",
+          "url": "https://cv.tatamotors.com/news/tata-motors-limited-formerly-tml-commercial-vehicles-ltd-q1-fy27-results",
+          "note": "与这场日期对应的主体。"
+        },
+        {
+          "bucket": "official",
+          "label": "乘用车公司稿",
+          "url": "https://cars.tatamotors.com/article/press-release/tata-motors-passenger-vehicles-limited-consolidated-q1-fy27-results.html",
+          "note": "另一上市主体的同季业绩。日期未核到这一家。"
+        },
+        {
+          "bucket": "official",
+          "label": "电话会日期的公告转载",
+          "url": "https://financialfilings.com/filings/tata-motors-limited/report-publication-announcement/2026/66301953/",
+          "note": "摘录未显示完整钟点。"
+        }
+      ],
+      "gaps": {
+        "pdf": "已打开的是公司新闻稿。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "maruti",
+      "name": "马鲁蒂铃木",
+      "en": "Maruti Suzuki",
+      "tickers": "MARUTI.NS",
+      "region": "印度",
+      "fy": "截至 3 月 31 日",
+      "order": 8,
+      "nextDate": "2026-10-27",
+      "nextWhen": "2026-10-27 董事会审议",
+      "nextPeriod": "截至 2026-09-30 的季度（2027 财年第二季）",
+      "headline": "2027 财年第一季：单体净销售额 4,995.91 亿印度卢比，上年同期 3,662.06 亿印度卢比，公司写增加 36%；净利润 335.21 亿印度卢比，上年同期 375.81 亿印度卢比。总销量同比 +29.3%；演示给出 682,724 辆对 527,861 辆。比较期已按铃木古吉拉特并入重述。",
+      "change": "销量和净销售额上升，原材料在冲突期间抬高，净利润下降。",
+      "guidance": "",
+      "watches": [
+        "净销售额增加 36%，净利润从 375.81 亿降到 335.21 亿印度卢比。第二季看量增时利润是否仍被原材料压住。",
+        "比较期含铃木古吉拉特并入，不要用并入前的旧比较数。"
+      ],
+      "dateSources": [
+        {
+          "label": "NDTV Profit 引述交易所公告",
+          "url": "https://www.ndtvprofit.com/markets/maruti-suzuki-q2-results-date-time-dividend-news-earnings-call-schedule-and-more-12157690"
+        },
+        {
+          "label": "业绩日历汇总",
+          "url": "https://flashfinance.news/results-calendar/"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "第一季新闻稿",
+          "url": "https://www.marutisuzuki.com/corporate/media/press-releases/2026/july/maruti-suzuki-announces-financial-results-for-quarter-1",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "投资者演示",
+          "url": "https://www.marutisuzuki.com/content/dam/arena-eds/corporate/pdf/company-reports/2026-2027/Investor-Presentation-Q1FY27.pdf",
+          "note": "销量 682,724 对 527,861。"
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到公司文字记录。日期页不是业绩会文稿。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "mahindra",
+      "name": "马恒达",
+      "en": "Mahindra & Mahindra",
+      "tickers": "M&M.NS",
+      "region": "印度",
+      "fy": "截至 3 月 31 日",
+      "order": 27,
+      "nextDate": "2026-11-05",
+      "nextWhen": "2026-11-05",
+      "nextPeriod": "2027 财年第二季",
+      "nextNote": "Simply Wall St 称公司已宣布。本次未打开 BSE 原文，使用前请核对交易所公告。日期保留。",
+      "headline": "2027 财年第一季：合并经营收入 5,818.8 亿印度卢比，上年同期 4,552.9 亿印度卢比，同比 +28%；归属公司拥有人的税后利润 545.5 亿印度卢比，上年同期 408.3 亿印度卢比，同比 +34%。单体销量：汽车 304,421 辆（上年同期 247,249 辆），拖拉机 158,041 辆。",
+      "change": "合并收入和利润上升；汽车分部利润同比 +21%，公司同时写第一季有非常规的大宗商品通胀。",
+      "guidance": "",
+      "watches": [
+        "汽车分部利润同比 +21%，公司写了大宗商品通胀。第二季看汽车与农用机械是否仍要分开读。",
+        "11 月 5 日尚未打开 BSE 原文。发布前核对交易所公告，日期先不改。"
+      ],
+      "dateSources": [
+        {
+          "label": "Simply Wall St 转述",
+          "url": "https://simplywall.st/stocks/us/automobiles/otc-mahm.f/mahindra-mahindra/past"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "公司新闻稿",
+          "url": "https://www.mahindra.com/news-room/press-release/en/m-and-m-results-q1-f27",
+          "note": ""
+        },
+        {
+          "bucket": "pdf",
+          "label": "季报 PDF",
+          "url": "https://www.mahindra.com/sites/default/files/2026-07/Quarterly%20Result%20for%20Q1F27.pdf",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "ashok",
+      "name": "阿肖克雷兰德",
+      "en": "Ashok Leyland",
+      "tickers": "ASHOKLEY.NS",
+      "region": "印度",
+      "fy": "截至 3 月 31 日",
+      "order": 120,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "未核到下次日期。",
+      "headline": "2027 财年第一季（2026-08-14）：商用车销量 48,763 辆，上年同期 44,238 辆；收入 963.4 亿印度卢比，上年同期 872.5 亿印度卢比；税后利润 60.9 亿印度卢比，上年同期 59.4 亿印度卢比。EBITDA 都是 97.0 亿印度卢比，利润率 10.1%，上年同期 11.1%。",
+      "change": "销量和收入创该季纪录，利润略增，材料成本把利润率压低。",
+      "guidance": "",
+      "watches": [
+        "EBITDA 利润率 10.1%，上年同期 11.1%。有日期后看利润率是否仍被材料成本压低。",
+        "销量用新闻稿的 48,763，不用其他转写口径。"
+      ],
+      "dateSources": [],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "公司新闻稿",
+          "url": "https://www.ashokleyland.com/ae/pressrelease/ashok-leyland-posts-record-q1-volumes-revenue-profits",
+          "note": ""
+        }
+      ],
+      "gaps": {
+        "pdf": "已打开的是新闻稿。",
+        "transcript": "未找到可引用的公司文字记录。",
+        "video": "未找到视频。"
+      }
+    },
+    {
+      "id": "vinfast",
+      "name": "VinFast",
+      "en": "VinFast",
+      "tickers": "VFS",
+      "region": "越南",
+      "fy": "截至 12 月 31 日",
+      "order": 121,
+      "nextDate": "",
+      "nextWhen": "",
+      "nextPeriod": "",
+      "undatedWhy": "公司 IR 写明下次电话会看本站 Events & News。第三方分别写 2026-10-23 与 2026-11-19，互相冲突，都不用。",
+      "headline": "",
+      "change": "",
+      "figureGap": "本次没有摘录最近一期利润表。IR 表格列出的业绩稿止于已发布季度，没有给出下一次日期。",
+      "guidance": "",
+      "watches": [
+        "日期以公司 IR 的 Events & News 为准。10 月 23 日和 11 月 19 日这两个第三方日期都不用。"
+      ],
+      "dateSources": [
+        {
+          "label": "公司 IR",
+          "url": "https://vinfastauto.us/investor-relations"
+        }
+      ],
+      "materials": [
+        {
+          "bucket": "official",
+          "label": "公司 IR",
+          "url": "https://vinfastauto.us/investor-relations",
+          "note": "未给出下一次日期。"
+        }
+      ],
+      "gaps": {
+        "pdf": "本次未打开最近一期财务 PDF。",
+        "transcript": "未找到文字记录。",
+        "video": "未找到视频。"
+      }
+    }
+  ]
+}
