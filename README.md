@@ -1,8 +1,8 @@
 # 汽车主机厂财报跟踪
 
-仓库：<https://github.com/clongking/oem-earnings-tracker>
+线上页面：<https://clongking.github.io/oem-earnings-tracker/>
 
-用浏览器打开 `index.html`。GitHub Pages 这次没有打开：当前令牌不能管理 Pages。若要公开网址，到仓库 Settings → Pages，选 Deploy from a branch，分支 `main`，目录 `/ (root)`。打开后的地址是 <https://clongking.github.io/oem-earnings-tracker/>。
+仓库：<https://github.com/clongking/oem-earnings-tracker>。Pages 从 `main` 分支的根目录发布。
 
 检索日 **2026-10-18**。只收上市整车厂，不含一级供应商和经销商。
 
