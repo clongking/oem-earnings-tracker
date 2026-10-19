@@ -2,6 +2,8 @@
 
 线上页面：<https://clongking.github.io/oem-earnings-tracker/>
 
+首页是月历，只标已经核对的发布日。
+
 仓库：<https://github.com/clongking/oem-earnings-tracker>。Pages 从 `main` 分支的根目录发布。
 
 检索日 **2026-10-18**。只收上市整车厂，不含一级供应商和经销商。
